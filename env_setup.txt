@@ -1,0 +1,5 @@
+conda create -n DMPr python=3.8
+
+conda activate DMPr
+
+pip3 install -r requirements.txt
